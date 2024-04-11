@@ -1,0 +1,78 @@
+/*Style Page Video*/
+
+#button{
+    background-color: #8C1C25;
+    color: white;
+    font-family: 'Bree Serif', serif;
+}
+body{
+    font-family: 'Bree Serif', serif;
+    background-color: black !important ;
+    color:white !important;
+
+}
+
+
+
+.listeCom{
+    text-align: center;
+}
+
+
+.active {
+    color: #8C1C25
+}
+
+.disabled {
+    color: white
+}
+
+.disabled:hover{
+    color: #8C1C25;
+}
+#trailer{
+ margin-bottom: 40px;
+ margin-top: 40px;
+}
+#bodySpace{
+    margin-top:30px;
+}
+.col-lg-2{
+    text-align: center;
+}
+.valider{
+    margin:15px;
+}
+#infoContent{
+    text-align: center;
+    margin:10px;
+}
+#website{
+    font-size: 30px;
+    color:#8C1C25;
+}
+#titleMovie{
+    text-align: center;
+    margin-top:20px;
+}
+.eachCom{
+    background-color: #59151A;
+}
+
+#information2{
+    cursor: pointer;
+}
+
+#commentaire2{
+    cursor: pointer;
+}
+
+#video2{
+    cursor: pointer;
+}
+label{
+    font-size: 20px;
+}
+#order2{
+    cursor: pointer;
+}

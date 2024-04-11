@@ -1,0 +1,94 @@
+/*CSS PAGE D'ACCEUIL */
+@media (min-width: 992px),(max-width: 1200px){
+footer{
+    margin: 0;
+    
+    background-color: black;
+    color:white;
+    margin-bottom: 0%;
+ 
+
+}
+nav{
+    margin: 0;
+    font-family: 'Bree Serif', serif;
+    background-color: #261616;
+    color: #8C1C25;
+
+}
+
+
+
+
+.page-footer{
+    /* background-color: #261616; */
+    color: white;
+    font-family: 'Bree Serif', serif;
+}
+.span{
+    color: white;
+    font-style: italic;;
+}
+img{
+    padding-left: 12px;
+}
+.privacy{
+    color: inherit;
+    color: white;
+}
+.privacy:hover{
+    color:#8C1C25;
+}
+
+}
+
+.nav-link{
+    color: white;
+
+}
+
+.nav-link:hover{
+    color: #8C1C25;
+}
+
+
+@media (max-width: 320px) {
+   .logo{
+       display: none;
+       }
+    .collapse{
+        display: list-item !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo{
+        display: none;
+    }
+    .collapse{
+        display: list-item !important;
+    }
+
+}
+@media (max-width: 768px) {
+    .logo{
+        display: none;
+    }
+    .collapse{
+        display: list-item !important;
+    }
+}
+
+.text{
+    color:#8C1C25;
+}
+.colMiddle{
+    text-align: center;
+}
+#recherche{
+    text-align: center;
+    background-color:rgb(75, 12, 17);
+}
+#user{
+    color:white;
+}

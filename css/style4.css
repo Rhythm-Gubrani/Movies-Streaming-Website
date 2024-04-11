@@ -1,0 +1,46 @@
+/*Page contact*/
+.contact{
+    background-image: url("media/cinee.jpg");
+    background-size: cover;
+    font-family: 'Bree Serif', serif;
+}
+.title1 {
+    color:white;
+}
+.title2{
+    color: #59151A;
+}
+.navbar{
+    color: white;
+    font-family: 'Bree Serif', serif;
+
+}
+.titrep{
+    color: #59151A;
+}
+#main{
+    padding-top: 30%;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.95;
+    text-align: center;
+    border-radius: 5%;
+
+}
+/*Page 404*/
+
+.p404{
+    background-color: black;
+    color: rgb(158, 30, 30);
+    font-family: 'Annie Use Your Telescope', cursive;
+
+    font-size: 200%;
+}
+.popcorn{
+    margin-top: 0% !important;
+    margin-left: 25%;
+}
+.texte{
+    text-align: center;
+}
